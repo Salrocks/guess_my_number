@@ -2,7 +2,7 @@
 
 A retro-styled number guessing game built with HTML, CSS, and vanilla JavaScript.
 
-**▶️ Play it live:** [salrocks.github.io/guess-my-number](https://salrocks.github.io/guess-my-number/)
+**▶️ Play it live:** [salrocks.github.io/guess-my-number](https://salrocks.github.io/guess_my_number/)
 
 ---
 
